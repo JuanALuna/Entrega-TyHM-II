@@ -7,6 +7,6 @@
 |:---------:|:-------:|:----:|:------:|:----:|:----:|:----:|:----:|
 |Luna|Juan Agustin|<juanagustin.lunasabio@gmail.com>|2613621011|
 |Noriega|Luciana|<luciananoriega30@gmail.com>|2613900963|
-|Olguin Herrera|Leandro Joel|<leannnolguin@gmail.com>|2615458037|
+|Olguin Herrera|Leandro Joel|<leannnolguin@gmail.com>|2615458037|<https://github.com/Leandro-olguin/Modulo1>|<https://github.com/Leandro-olguin/Modulo2>|<https://github.com/Leandro-olguin/Modulo3>|
 |Galli|Ariana|<arianapau23@gmail.com>|2614684875|
 |Cardenas|Juan Manuel|<juanmacardenas09@gmail.com>|2622552012|
