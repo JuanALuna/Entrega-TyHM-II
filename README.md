@@ -6,7 +6,7 @@
 
 |Apellido(s)|Nombre(s)|Correo|Whatsapp|Modulo 1|Modulo 2|Modulo 3|Modulo 4|
 |:---------:|:-------:|:----:|:------:|:----:|:----:|:----:|:----:|
-|Luna|Juan Agustin|<juanagustin.lunasabio@gmail.com>|2613621011|
+|Luna|Juan Agustin|<juanagustin.lunasabio@gmail.com>|2613621011|<https://github.com/JuanALuna/Modulo_1.2>|<https://github.com/JuanALuna/Modulo_2.2>|<https://github.com/JuanALuna/Modulo_3.2>|<https://github.com/JuanALuna/Modulo_4.2>|
 |Noriega|Luciana|<lucianananoriega30@gmail.com>|2613900963|
 |Olguin Herrera|Leandro Joel|<leannnolguin@gmail.com>|2615458037|<https://github.com/Leandro-olguin/Modulo1>|<https://github.com/Leandro-olguin/Modulo2>|<https://github.com/Leandro-olguin/Modulo3>|
 |Galli|Ariana|<arianapau23@gmail.com>|2614684875|
