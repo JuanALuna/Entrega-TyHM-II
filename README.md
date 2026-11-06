@@ -2,6 +2,7 @@
 1. Modulo N°1:Tesis y herramientas de IA
 2. Modulo N°2:Taller de fotografía
 3. Módulo N°3: Trabajos en Qgis
+4. Módulo N°4: Trabajos en Vensim
 
 |Apellido(s)|Nombre(s)|Correo|Whatsapp|Modulo 1|Modulo 2|Modulo 3|Modulo 4|
 |:---------:|:-------:|:----:|:------:|:----:|:----:|:----:|:----:|
