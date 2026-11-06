@@ -10,4 +10,4 @@
 |Noriega|Luciana|<lucianananoriega30@gmail.com>|2613900963|<https://github.com/luciana-noriega/Modulo1.2>|<https://github.com/luciana-noriega/Modulo2.2>|<https://github.com/luciana-noriega/Modulo3.2>|<https://github.com/luciana-noriega/Modulo4.2>|
 |Olguin Herrera|Leandro Joel|<leannnolguin@gmail.com>|2615458037|<https://github.com/Leandro-olguin/Modulo1>|<https://github.com/Leandro-olguin/Modulo2>|<https://github.com/Leandro-olguin/Modulo3>|
 |Galli|Ariana|<arianapau23@gmail.com>|2614684875|
-|Cardenas|Juan Manuel|<juanmacardenas09@gmail.com>|2622552012|
+|Cardenas|Juan Manuel|<juanmacardenas09@gmail.com>|2622552012|<https://github.com/juanmacardenas09-netizen/modulo1.2>|<https://github.com/juanmacardenas09-netizen/modulo2.2>|<https://github.com/juanmacardenas09-netizen/modulo3.2>|<https://github.com/juanmacardenas09-netizen/modulo4.2>|
